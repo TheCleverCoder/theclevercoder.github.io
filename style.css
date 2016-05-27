@@ -132,8 +132,6 @@ a:hover {
 	color: white;
 	background-color: #494949;
 
-	margin-left: 660px;
-
 	border-spacing: 5px;
 
 	font-family: 'Slabo 27px', sans-serif;
@@ -167,4 +165,8 @@ a:hover {
 	padding-bottom: 5px;
 
 	font-family: 'Oswald', sans-serif;
+}
+
+.buttonHolder {
+	text-align: center;
 }
