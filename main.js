@@ -27,9 +27,14 @@ var main = function() {
 					case 'HORRIBLE':
 						confirm("That's a shame. Sorry to hear that.");
 						break;
+					case 'GREAT, GOOD, OKAY, BAD, HORRIBLE':
+						confirm("Congratulations! You have found the Super Secret easter egg!");
+						break;
 					default:
 						confirm("It looks like you didn't choose one of the options.");
 				}
+
+				confirm("Have you tried all of the options...? ('Maybe all together...?')");
 			}
 
 			else if(game1USRInput2.toUpperCase() === "NO") {
