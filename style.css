@@ -92,7 +92,7 @@ a:hover {
 }
 
 .video1 {
-	position: fixed;
+	position: relative;
 	display: block;
 
 	margin-top: 100px;
@@ -101,25 +101,39 @@ a:hover {
 	margin-right: 10px;
 }
 .video2 {
-	position: fixed;
+	position: relative;
 	display: block;
 
-	margin-top: 100px;
+	margin-top: -430px;
 	margin-bottom: 50px;
 	margin-left: 800px;
 	margin-right: 10px;
 }
 .video3 {
-	position: fixed;
+	position: relative;
 	display: block;
 
-	margin-top: 500px;
+	margin-top: 100px;
 	margin-bottom: 50px;
 	margin-left: 150px;
 	margin-right: 10px;
 }
-.videoDesc {
-	margin-top: 1000px;
+.webDesc {
+	margin-top: 500px;
+
+	border-color: black;
+	color: white;
+	background-color: black;
+
+	border-spacing: 5px;
+	font-size: 12px;
+
+	padding-left: 15px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+
+	margin-right: -50px;
+	margin-left: -10px;
 }
 
 /* .videopagetitle {
