@@ -1,1 +1,1 @@
-# theclevercoder.github.io
+# directcoding.github.io
