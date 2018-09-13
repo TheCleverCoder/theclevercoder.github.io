@@ -1,13 +1,13 @@
 body {
-	background-color: #CCCCCC;
+	background-color: #c9c9c9;
 }
 
 h1 {
-	background-color: #494949;
+	background-color: #9ad3de;
 
 	text-align: center;
-	padding-top: 10px;
-	padding-bottom: 10px;
+	padding-top: 13px;
+	padding-bottom: 15px;
 	padding-left: 10px;
 	padding-right: 10px;
 	margin-top: -10px;
@@ -24,7 +24,7 @@ h1 {
 
 .newspage {
 	color: white;
-}
+} 
 
 .videospage {
 	color: white;
@@ -50,24 +50,20 @@ a {
 	text-align: center;
 	text-decoration: none;
 	
-	border-style: solid;
-	border-width: 2px;
-	
 	margin-left: 20px;
 	
-	padding-top: 1px;
-	padding-bottom: 1px;
+	padding-bottom: 4px;
 	padding-left: 5px;
 	padding-right: 5px;
 	
-	font-family: 'Oswald', sans-serif;
+	font-family: 'Righteous', sans-serif;
 }
 
-a:hover {
+/* a:hover {
 	display: inline-block;
 	
 	color: #FFFFFF;
-	background-color: #494949;
+	background-color: #c9c9c9;
 	
 	text-align: center;
 	text-decoration: none;
@@ -82,11 +78,11 @@ a:hover {
 	padding-left: 5px;
 	padding-right: 5px;
 	
-	font-family: 'Oswald', sans-serif;
-}
+	font-family: 'Righteous', sans-serif;
+} */
 
 .headerspace {
-	background-color: black;
+	background-color: #89bdd3;
 	margin-right: -10px;
 	margin-left: -10px;
 	margin-top: -33px;
@@ -132,11 +128,14 @@ a:hover {
 	margin-right: 10px;
 }
 .webDesc {
-	margin-top: 500px;
+
+	font-family: 'Nothing You Could Do', cursive;
+
+	margin-top: 600px;
 
 	border-color: black;
 	color: white;
-	background-color: black;
+	background-color: #89bdd3;
 
 	border-spacing: 5px;
 	font-size: 12px;
@@ -147,19 +146,17 @@ a:hover {
 
 	margin-right: -50px;
 	margin-left: -10px;
-	margin-bottom: -10px;
+
 }
 
 /* .videopagetitle {
 	color: white;
 	background-color: #494949;
-
 	display: block;
 	text-align: center;
 	font-size: 48;
 	margin-top: 25px;
 	margin-bottom: 50px;
-
 	padding-top: 10px;
 	padding-bottom: 10px;
 } */
@@ -167,9 +164,9 @@ a:hover {
 .intbtn1 {
 	text-align: center;
 	border-radius: 3px;
-	border-color: black;
+	border-color: #c9c9c9;
 	color: white;
-	background-color: #494949;
+	background-color: #89bdd3;
 
 	border-spacing: 5px;
 
@@ -179,20 +176,20 @@ a:hover {
 }
 .intbtn1:hover {
 	border-color: #494949;
-	color: black;
-	background-color: white;
+	color: #89bdd3;
+	background-color: #e3e3e3;
 }
 
 .game1desc {
-	color: #494949;
+	color: white;
 	text-align: center;
 	font-weight: bold;
-	font-family: 'Slabo 27px', sans-serif;
+	font-family: 'Kanit 27px', sans-serif;
 }
 .game1title {
 	color: white;
 	border-color: black;
-	background-color: #494949;
+	background-color: #9ad3de;
 	text-align: center;
 
 	margin-left: 250px;
@@ -203,7 +200,7 @@ a:hover {
 	padding-top: 5px;
 	padding-bottom: 5px;
 
-	font-family: 'Oswald', sans-serif;
+	font-family: 'Righteous', sans-serif;
 }
 
 .buttonHolder {
